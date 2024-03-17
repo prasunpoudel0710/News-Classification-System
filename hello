@@ -1,0 +1,3 @@
+define update_model():
+    Input data(data,label)
+    model,tfidf
