@@ -1,1 +1,1 @@
-# News-Classification-System
+# News-Classification-System Using Multinolmial Linear Regression
